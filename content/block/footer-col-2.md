@@ -1,3 +1,3 @@
-#### Footer col 2
+#### Den här webbplatsen
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Copyright &copy; 2108 Khaled Al Habash, khal18@dbwebb.se, Tel: 0700063670

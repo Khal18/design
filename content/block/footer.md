@@ -1,1 +1,1 @@
-Copyright år och ditt namn samt diverse länkar som du finner relevanta.
+Copyright &copy; 2108 Khaled Al Habash, khal18@dbwebb.se

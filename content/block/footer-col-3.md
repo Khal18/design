@@ -1,3 +1,3 @@
-#### Footer col 3
+#### Kursen designv2
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Kursen Teknisk webbdesign och användbarhet. länka till [kursens hemsida på dbwebb.se](https://dbwebb.se/kurser/design-v2) och till [kursrepot på GitHub](https://github.com/dbwebb-se/design).
