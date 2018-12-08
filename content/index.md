@@ -1,7 +1,7 @@
 ---
 title: "Min fina titel"
 views:
-    
+
     kursrepo:
         region: main
         template: anax/v2/block/default
@@ -11,7 +11,7 @@ views:
                 type: single
                 route: block/byline
 ---
-Min me-sida i kursen design
+Min me-sida 
 =========================
 
 

@@ -30,6 +30,16 @@ return [
                         "url" => "redovisning/kmom02",
                         "title" => "Redovisning för kmom02.",
                     ],
+                    [
+                        "text" => "Kmom03",
+                        "url" => "redovisning/kmom03",
+                        "title" => "Redovisning för kmom03.",
+                    ],
+                    [
+                        "text" => "Kmom04",
+                        "url" => "redovisning/kmom04",
+                        "title" => "Redovisning för kmom04.",
+                    ],
                 ],
             ],
         ],
@@ -39,7 +49,7 @@ return [
             "title" => "Om denna webbplats.",
         ],
         [
-            "text" => "Styleväljare",
+            "text" => "Teman",
             "url" => "style",
             "title" => "Välj stylesheet.",
         ],
@@ -49,9 +59,14 @@ return [
             "title" => "Verktyg och möjligheter för utveckling.",
         ],
         [
+            "text" => "Rapport",
+            "url" => "rapport",
+            "title" => "Analys av webbplatser.",
+        ],
+        [
             "text" => "Lek",
             "url" => "testa",
-            "title" => "Lek runt med olika konstruktioner.",
+            "title" => "Lek webbplats.",
         ],
     ],
 ];
