@@ -11,12 +11,11 @@ views:
                 type: single
                 route: block/byline
 ---
-Min me-sida 
+Min me-sida
 =========================
 
 
-
-[FIGURE src="image/me.jpg?w=400" class="right" caption="Khaled AlHabash i Madrid, Spanien 2018"]
+[FIGURE src="image/me.jpg?w=400" class="figure right" caption="Khaled AlHabash i Madrid, Spanien 2018"]
 
 Mitt namn är Khaled Al Habash. Född och uppvuxen i Damaskus, Syrian, jag kom till Sverige i 2014. Jag är gift och har 3 barn. Jag bor i Ronneby nu.
 Jag studerade förstskol och gymnsiet i Damascus sedan studerade jag i elektriska och elektroniska institutet i Damaskus universitet i två år. När jag hade utfört obligatorisk militärtjänst började jag arbeta i fria jobb i 6 år.

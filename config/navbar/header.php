@@ -40,6 +40,11 @@ return [
                         "url" => "redovisning/kmom04",
                         "title" => "Redovisning för kmom04.",
                     ],
+                    [
+                        "text" => "Kmom05",
+                        "url" => "redovisning/kmom05",
+                        "title" => "Redovisning för kmom05.",
+                    ],
                 ],
             ],
         ],
@@ -49,7 +54,7 @@ return [
             "title" => "Om denna webbplats.",
         ],
         [
-            "text" => "Teman",
+            "text" => "Stylechooser",
             "url" => "style",
             "title" => "Välj stylesheet.",
         ],
@@ -57,6 +62,11 @@ return [
             "text" => "Verktyg",
             "url" => "verktyg",
             "title" => "Verktyg och möjligheter för utveckling.",
+        ],
+        [
+            "text" => "Blogg",
+            "url" => "blogg",
+            "title" => "Dagens Bild.",
         ],
         [
             "text" => "Rapport",

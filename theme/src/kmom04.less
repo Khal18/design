@@ -7,7 +7,29 @@
  /**
   * Import mixins.
   */
+  @import "@desinax/figure/less/asciinema.less";
+  @import "@desinax/figure/less/codepen.less";
+  @import "@desinax/figure/less/figure.less";
+
+figure.figure {
+    #desinax-figure.figure();
+}
+
+figure.asciinema {
+    &:extend(figure.figure);
+    #desinax-figure.asciinema();
+}
+
+figure.codepen,
+figure.figure-codepen {
+    &:extend(figure.figure);
+    #desinax-figure.codepen();
+}
+
+
  @import "mixin/clearfix.less";
+
+
 
  .clearfix() {
      #design-mixin.clearfix();

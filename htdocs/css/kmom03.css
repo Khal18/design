@@ -5010,6 +5010,7 @@ hr::after {
   width: 19.79166667%;
   margin-left: 0.52083333%;
   margin-right: 0.52083333%;
+  text-align: center;
 }
 .region-header-col-2 {
   display: inline;

@@ -1,10 +1,10 @@
 <div class="author-byline">
 <figure class="figure left">
 <a
-href="https://media.licdn.com/dms/image/C5603AQEJYctkPejEcQ/profile-displayphoto-shrink_200_200/0?e=1547078400&v=beta&t=UwQjpFRLYu6EVEgfhqExsvBsQnubQNlBia8T5iefTKA"><img src="img//byline.png" alt="Khaled Al habash"></a>
+href="https://media.licdn.com/dms/image/C5603AQEJYctkPejEcQ/profile-displayphoto-shrink_200_200/0?e=1547078400&v=beta&t=UwQjpFRLYu6EVEgfhqExsvBsQnubQNlBia8T5iefTKA"><img src="img//byline.png" alt="Khaled Al Habash"></a>
 <figcaption>
 
-<p>Khaled Al Habash</p>
+<p>Khaled</p>
 
 </figcaption>
 </figure>
