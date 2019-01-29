@@ -1,7 +1,7 @@
 /*!
- * Kmom04.
+ * Kmom06-designelement.
  *
- * This stylesheet is for the design course and kmom04 where we use LESS.
+ * This stylesheet is for the design course and kmom06 where we use LESS.
  */
 
  /**
@@ -134,3 +134,56 @@ body {
  // Magic number and base fontsize
  @magicNumber:  24px;  // 22px
  @fontSizeBody: 16px;
+
+ @backgroundColor: #43877B;
+ @textColor: #333;
+ //@fontFamilyHeadings: monospace;
+ //@fontFamilyBody:  monospace;
+
+ body {
+     background-color: #dce6f5;
+     color:  @textColor;
+ }
+
+ .inner-wrap-footer {
+     color: #fff;
+     background-color: #333;
+ }
+
+ .inner-wrap {
+     //background-color: #fff;
+ }
+
+ .inner-wrap-header {
+     color: #fff;
+     background-color: #053c5c;
+     font-family:  Arial, Helvetica, sans-serif;
+     font-size: 16px;
+     font-style: italic;
+ }
+
+ .inner-wrap-main {
+     background-color: #dce6f5;
+ }
+
+ .outer-wrap-footer,
+ .inner-wrap-footer {
+     color: #fff;
+     background-color: #053c5c;
+ }
+
+.inner-warp-breadcrumb {
+    background-color: #fff;
+}
+
+.author-byline {
+    border:1px solid #333;
+    margin-bottom:46px;
+    padding:1em;
+}
+
+.author-byline::after {
+    content:"";
+    display:block;
+    clear:both;
+}

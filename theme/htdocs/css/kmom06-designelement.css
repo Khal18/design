@@ -1,7 +1,7 @@
 /*!
- * Kmom05.
+ * Kmom06-designelement.
  *
- * This stylesheet is for the design course and kmom05 where we use LESS.
+ * This stylesheet is for the design course and kmom06 where we use LESS.
  */
 /**
   * Import mixins.
@@ -5651,7 +5651,7 @@ hr::after {
  * My own settings, not currently in their own module.
  */
 body {
-  background-color: #fff;
+  background-color: #dce6f5;
   color: #333;
 }
 .inner-wrap-footer {
@@ -5660,13 +5660,29 @@ body {
 }
 .inner-wrap-header {
   color: #fff;
-  background-color: #912100;
+  background-color: #053c5c;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-style: italic;
 }
 .inner-wrap-main {
-  background-color: #fff;
+  background-color: #dce6f5;
 }
 .outer-wrap-footer,
 .inner-wrap-footer {
-  color: #B3BDA5;
-  background-color: #171203;
+  color: #fff;
+  background-color: #053c5c;
+}
+.inner-warp-breadcrumb {
+  background-color: #fff;
+}
+.author-byline {
+  border: 1px solid #333;
+  margin-bottom: 46px;
+  padding: 1em;
+}
+.author-byline::after {
+  content: "";
+  display: block;
+  clear: both;
 }

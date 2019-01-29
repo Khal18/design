@@ -12,7 +12,7 @@ return [
         "region" => "layout",
         "template" => "anax/v2/layout/dbwebb_se",
         "data" => [
-            "baseTitle" => " | design",
+            "baseTitle" => " | Me Sida",
             "bodyClass" => null,
             "favicon" => "favicon.ico",
             "htmlClass" => null,
@@ -20,7 +20,7 @@ return [
             "stylesheets" => [
                 // Change here to set another default stylesheet
                 //"css/dbwebb-se.min.css",
-                "css/kmom05.css",
+                "css/kmom06-designelement.css",
             ],
             "javascripts" => [
                 "js/responsive-menu.js",
@@ -44,7 +44,7 @@ return [
             "template" => "anax/v2/header/site_logo_text",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "design",
+                "siteLogoText"  => "Me Sida",
                 "siteLogoTextIcon" => "image/theme/leaf_40x40.png",
                 "siteLogoTextIconAlt" => "Löv-bild",
             ],
